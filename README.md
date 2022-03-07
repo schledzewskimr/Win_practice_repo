@@ -4,10 +4,6 @@ just to test
 
 ## subheader
 more text since it says there is nothing to commit
-jfksdhjksdf
-asfiaskjfhjasf
-skadaksjda
 
-dfdfyrtuyf
-ddfgfgd
-fhgsddsf
+## This is a dev branch
+my txt here :)
